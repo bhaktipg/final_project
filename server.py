@@ -25,7 +25,7 @@ def sent_analyzer():
         f"For the given statement, the system response is "
         f"anger: {anger}, disgust: {disgust}, fear: {fear}, "
         f"joy: {joy}, sadness: {sadness}. "
-        f"The dominant emotion is <>b{dominant_emotion}</b>."
+        f"The dominant emotion is <b>{dominant_emotion}</b>."
     )
 
 
